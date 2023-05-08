@@ -23,3 +23,13 @@ This simple app can be used to get the list of full forms for Acronyms/initialis
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 * [Data Binding](https://developer.android.com/topic/libraries/data-binding/) 
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+
+https://user-images.githubusercontent.com/13498979/236724106-a024cf24-2d3c-4e65-8023-2b713a6f6191.mp4
+
+
+ 
